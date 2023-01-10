@@ -1,0 +1,1 @@
+let hhh: number = 10;
